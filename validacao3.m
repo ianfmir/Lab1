@@ -22,7 +22,7 @@ plot([0 13],vfinal*0.98*[1 1],'k--','linewidth',1);
 xlim([0 13]);
 xlabel('tempo (s)');
 ylabel('counts');
-title('Resposta ao degrau do carrinho 1 mola $k_{12}$ com modelo teste 3','interpreter','latex','fontsize', 12)
+title('Resposta ao degrau do carrinho 1 mola $k_{12}$ com modelo teste 3','interpreter','latex','fontsize', 18)
 legend('sistema','valor final','modelo','criterio 2%')
 
 
