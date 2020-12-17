@@ -12,7 +12,7 @@ plot([0 1485],'.');
 xlim([0 8]);
 xlabel('tempo (s)');
 ylabel('counts');
-title('Resposta ao degrau do carrinho 1 mola $k_1$','interpreter','latex','fontsize', 12)
+title('Resposta ao degrau do carrinho 1 mola $k_1$','interpreter','latex','fontsize', 18)
 
 %plota o degrau de entrada
 subplot(2,1,2);
@@ -24,4 +24,4 @@ ylim([-1 60]);
 xlim([0 8]);
 xlabel('tempo (s)');
 ylabel('counts');
-title('Entrada degrau','interpreter', 'latex','fontsize',12);
+title('Entrada degrau','interpreter', 'latex','fontsize',18);
