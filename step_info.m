@@ -1,3 +1,5 @@
+%Encontra os parametros da resposta ao degrau do sistema com os dados gerados pelo simulink
+
 To = 2; %inicio do degrau
 Ti = 25; %Ti regime permanente
 Tf = 31; %Tf regime permanente
